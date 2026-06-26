@@ -1,0 +1,25 @@
+# 系统更新日志（与 system_manifest.yaml 拆分，避免单文件过大、按需单独读取）
+# items[].type 取值：add 新增 | optimize 优化 | fix 修复 | other 其他
+update_log:
+  - version: "1.0.1"
+    released_at: "2026-03-23"
+    summary: "小版本更新：问题修复与体验优化"
+    items:
+      - type: add
+        text: "新增系统更新日志公开接口 GET /api/system/update-log"
+      - type: fix
+        text: "修复若干已知问题"
+      - type: optimize
+        text: "优化静态资源与配置读取说明"
+  - version: "1.0.0"
+    released_at: "2026-03-23"
+    summary: "示例版本说明"
+    items:
+      - type: add
+        text: "示例：新功能说明"
+      - type: optimize
+        text: "示例：体验或性能优化说明"
+      - type: fix
+        text: "示例：缺陷修复说明"
+      - type: other
+        text: "示例：杂项或说明类条目"
