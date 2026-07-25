@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450" fill="none">
+  <rect width="800" height="450" rx="16" fill="#F8F8F8"/>
+  <rect x="40" y="40" width="720" height="370" rx="12" fill="#FFFFFF" stroke="#E8E8E8" stroke-width="2"/>
+  <rect x="40" y="40" width="720" height="8" rx="4" fill="#000" opacity="0.08"/>
+  <text x="400" y="130" text-anchor="middle" font-family="system-ui,-apple-system,sans-serif" font-size="26" font-weight="700" fill="#111">模块化单体架构总览</text>
+  <text x="400" y="172" text-anchor="middle" font-family="system-ui,-apple-system,sans-serif" font-size="15" fill="#666">Go 后端 · uni-app X · 29 业务模块</text>
+  <rect x="120" y="210" width="560" height="56" rx="12" fill="#F0F0F0"/>
+  <rect x="120" y="280" width="560" height="56" rx="12" fill="#F0F0F0"/>
+  <rect x="120" y="350" width="560" height="40" rx="8" fill="#FAFAFA" stroke="#E8E8E8" stroke-width="1"/>
+  <text x="400" y="415" text-anchor="middle" font-family="system-ui,-apple-system,sans-serif" font-size="13" fill="#999">图片占位 · 请替换为实际截图</text>
+  <circle cx="680" cy="70" r="28" fill="#F0F0F0"/>
+  <text x="680" y="76" text-anchor="middle" font-family="system-ui,sans-serif" font-size="20" fill="#CCC">📷</text>
+</svg>
