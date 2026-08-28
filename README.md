@@ -4,11 +4,11 @@ Auto-published from private dev repo. Do not edit artifacts manually.
 
 | Field | Value |
 | --- | --- |
-| Latest version | `2.0.0-test` |
-| Built at (UTC) | 2026-06-26T15:42:53Z |
-| Source commit | `36e5e5bd` |
+| Latest version | `2.0.1` |
+| Built at (UTC) | 2026-08-28T05:07:01Z |
+| Source commit | `8366e0f67` |
 
 ## Layout
 
-- `releases/<version>/linux/` - Linux binary, static/, zip
-- `releases/<version>/windows/` - Windows binary, static/, zip
+- `lingmeng-<version>.zip` — Linux 发布包（仓库根目录）
+- `lingmeng-<version>.zip` — Windows 发布包（若存在）
