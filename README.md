@@ -4,9 +4,9 @@ Auto-published from private dev repo. Do not edit artifacts manually.
 
 | Field | Value |
 | --- | --- |
-| Latest version | `2.0.2` |
-| Built at (UTC) | 2026-09-01T18:16:36Z |
-| Source commit | `e49951cee` |
+| Latest version | `2.0.3` |
+| Built at (UTC) | 2026-09-02T18:18:34Z |
+| Source commit | `1255b30ce` |
 
 ## Layout
 
@@ -17,3 +17,4 @@ Auto-published from private dev repo. Do not edit artifacts manually.
 
 - `lingmeng-2.0.1.zip`
 - `lingmeng-2.0.2.zip`
+- `lingmeng-2.0.3.zip`
