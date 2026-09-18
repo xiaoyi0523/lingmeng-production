@@ -5,7 +5,7 @@ Auto-published from private dev repo. Do not edit artifacts manually.
 | Field | Value |
 | --- | --- |
 | Latest version | `2.0.5` |
-| Built at (UTC) | 2026-09-18T00:16:21Z |
+| Built at (UTC) | 2026-09-18T08:01:31Z |
 | Source commit | `5e36fa8c4` |
 
 ## Layout
